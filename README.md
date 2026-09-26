@@ -634,42 +634,6 @@ This keeps internal implementation details and raw API errors out of the user in
 
 ---
 
-## Screenshots
-
-Add screenshots to make the GitHub repository more visual.
-
-Recommended structure:
-
-```text
-docs/
-├── login.png
-├── home.png
-├── analyzer.png
-└── results.png
-```
-
-Display them in Markdown:
-
-```markdown
-## Login
-
-![Login Screen](docs/login.png)
-
-## Home
-
-![Home Screen](docs/home.png)
-
-## Analyzer
-
-![Job Analyzer](docs/analyzer.png)
-
-## Results
-
-![Analysis Results](docs/results.png)
-```
-
----
-
 ## Roadmap
 
 ### Career Intelligence
