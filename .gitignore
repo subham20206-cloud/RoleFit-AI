@@ -1,0 +1,35 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# APKs / bundles
+*.apk
+*.aab
+
+# Generated Android files
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated release outputs
+app/release/
